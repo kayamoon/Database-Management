@@ -1,0 +1,170 @@
+/* FlexBox */
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+}
+
+li {
+    list-style-position: inside;
+}
+
+h1 {
+    font-family: 'Lora', serif;
+}
+
+/*
+font-family: 'Khand', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Lora', serif;
+*/
+
+/* Blockquotes - code adapted from Code Pen: Jonathan Clift https://codepen.io/cliftwalker/pen/XJaEXY*/
+
+blockquote {
+    width: 80%;
+    margin: 50px auto;
+    margin-left: 0;
+    font-style: italic;
+    padding: 1.2em 30px 1.2em 75px;
+    border-left: 4px solid #3da8e6;
+    line-height: 1.6;
+    position: relative;
+    background: #f3e0dc;
+}
+
+blockquote::before {
+    font-family: Arial;
+    content: "\201C";
+    color: #3da8e6;
+    font-size: 4em;
+    position: absolute;
+    left: 10px;
+    top: -10px;
+}
+
+blockquote::after {
+    content: '';
+}
+
+blockquote span {
+    display: block;
+}
+
+/* Containers
+
+.container {
+    margin: 5%;
+    max-width: 2000px;
+    padding-top: 40px;
+}
+
+
+/* Links */
+
+a:link,
+a:visited {
+    color: #93c9e8;
+    text-decoration: none;
+}
+
+a:focus,
+a:hover,
+a:active {
+    color: #6e9db9;
+}
+
+/* Header/Navigation */
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+/*
+
+nav {
+    width: 100%;
+    max-width: 2000px;
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-bottom: 2.5px;
+    padding-top: 2.5px;
+    top: 0px;
+    position: fixed;
+    box-shadow: 0px .5px 5px .1px rgba(161, 161, 161, 0.922);
+    z-index: 1;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+/* Make nav color change based on current page 
+.nav-links .current a {
+    color: #bc4639;
+}
+
+/* Logo 
+.navbar a {
+    font-family: 'Khand', sans-serif;
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    padding-top: 7px;
+    color: black;
+}
+
+/* Menu Items 
+.nav-item a {
+    display: inline-block;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-family: 'Lora', serif;
+    font-weight: 700;
+    font-size: 1em;
+    color: black;
+}
+
+.navbar a:hover {
+    color: #bc4639;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+*/
+
+/* Footer */
+
+footer {
+    margin-left: 0px;
+    margin-bottom: 0px;
+    padding-top: 40px;
+    text-align: center;
+    line-height: 1.4em;
+    font-size: .7em;
+    width: 100%;
+    background: #fff;
+    border-top: 1px solid black;
+}
