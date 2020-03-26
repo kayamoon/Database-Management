@@ -8,6 +8,10 @@ Logical Diagram:
 https://drive.google.com/file/d/1KoSeumpM4U6esh4lVXF5L4wQpn_luUvj/view?usp=sharing 
 
 
+Data Specification:
+https://drive.google.com/file/d/1i5JT86_4RgV7vdPxSAxMVPVKhW_2nksT/view?usp=sharing
+
+
 Included in “Little Taipei” folder:
 Data Specification
 SQL File (Create Statements)
