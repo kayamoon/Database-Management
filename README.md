@@ -2,7 +2,7 @@
 ## Final Grade: A
 
 
-## Mission Statement:
+## Mission Statement
 
 For my final project, I built “Little Taipei” **a restaurant ordering system** for an imaginary Taiwanese restaurant. I created **data specifications and a logical diagram** for my database in order to plan and model the database. I focused on Little Taipei’s menu items, orders, and customers. I used **MySQL, SQL, and Excel** to create and populate my database. After setting up the backend, I built a web interface using **HTML/CSS and Bootstrap** and connected it to the backend using **PHP**. 
 
