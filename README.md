@@ -17,8 +17,8 @@ For my final project, I built “Little Taipei” **a restaurant ordering system
 ### [See Presentations Slides](https://docs.google.com/presentation/d/18f_et5JTqxEoJ1FK9h20_HIDL99BPHO4ZeqnfF1y5c8/edit?usp=sharing)
 
 
-### Included in [Little Taipei folder](Little Taipei):
+### Included in [Little Taipei folder](Little%20Taipei):
 
-- [Data Specification](Little Taipei/LittleTaipei_DataSpec.xlsx)
-- [SQL File to Create Tables](Little Taipei/LittleTaipei.sql)
-- [Source Code](Little Taipei/littletaipei.php)
+- [Data Specification](Little%20Taipei/LittleTaipei_DataSpec.xlsx)
+- [SQL File to Create Tables](Little%20Taipei/LittleTaipei.sql)
+- [Source Code](Little%20Taipei/littletaipei.php)
