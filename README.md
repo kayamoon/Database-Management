@@ -14,11 +14,11 @@ For my final project, I built “Little Taipei” **a restaurant ordering system
 ### [Check out the Data Specifications](https://drive.google.com/file/d/1i5JT86_4RgV7vdPxSAxMVPVKhW_2nksT/view?usp=sharing)
 
 
-### Included in “Little Taipei” folder:
-
-- Data Specification
-- SQL File (Create Statements)
-- Source Code
-
-
 ### [See Presentations Slides](https://docs.google.com/presentation/d/18f_et5JTqxEoJ1FK9h20_HIDL99BPHO4ZeqnfF1y5c8/edit?usp=sharing)
+
+
+### Included in [Little Taipei folder](Little Taipei):
+
+- [Data Specification](Little Taipei/LittleTaipei_DataSpec.xlsx)
+- [SQL File to Create Tables](Little Taipei/LittleTaipei.sql)
+- [Source Code](Little Taipei/littletaipei.php)
