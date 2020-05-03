@@ -1,4 +1,6 @@
-# Database-Management
+# Little Taipei: Database Management Systems Project
+## Final Grade: A
+
 
 ## Mission Statement:
 
